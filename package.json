@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-connect-php": "0.0.7",
+    "gulp-livereload": "^3.8.1"
+  }
+}
